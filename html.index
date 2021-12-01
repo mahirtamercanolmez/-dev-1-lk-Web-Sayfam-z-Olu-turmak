@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<head>
+<title>İlk HTML Ödevi</title>
+</head>
+
+
+<body>
+<h1>Mahir Tamercan Ölmez</h1>
+
+        <h3>Hakkımda</h3>
+
+            <p>Merhaba Ben Mahir Tamercan Ölmez. İstanbul'da doğdum ve hala aynı şehirde yaşamaktayım. Yüksek lisans öğrencisiyim. Sosyoloji ana ilgi alanım olmakla beraber yabancı dil öğrenimi ile de ilgileniyorum. Kodluyoruz'un eğitim seti ve programı sayesinde şimdiden çok şey öğrendim. Öğrenmeyi de sürdürüyorum</p>
+    <h2>Sevdiğim Diziler</h2>
+        <h3>Game of Thrones</h3>
+                <p>Sıkı bir Game of Thrones takipçisiyim. Hem diziyi hem de kitapları tümüyle takip ettim. Yeni çıkacak kitabı da heyecanla bekliyorum.</p>
+</body>
